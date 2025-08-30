@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://wearl.co.in/Container/2025/02/Wearl-Offices.png" alt="Saurabh Banner" width="100%" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh884095) 
