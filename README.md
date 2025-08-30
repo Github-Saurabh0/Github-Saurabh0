@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wearl.co.in/Container/2025/02/Wearl-Offices.png" alt="Saurabh Banner" width="100%" />
+  <img src="https://wearl.co.in/Container/2025/02/Wearl-Offices.png" alt="Saurabh Banner" width="100%" style="border-radius: 15px;" />
 </p>
 
 ## 🌐 Socials:
